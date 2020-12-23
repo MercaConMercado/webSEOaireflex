@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc> http://www.aireflex.com</loc>
+    <lastmod>2020-09-01<lastmod> 
+     <loc> http://www.aireflex.com/AireAcondicionadoAutomatizacionManejoyControl.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc> http://www.aireflex.com/AireAcondicionadoCuartosLimpios.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadodePrecisionparaCentrosdeComputo.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoEdificiosyCentroscomerciales.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoLaboratoriosyMetrologia.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoLaboratoriosyMetrologia.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoOficinasLocalesyViviendas.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoparaClinicasyHospitales.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoParqueaderosCocinasBaños.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/CabinasdeDesinfeccionporNebulizacion.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/DiseñodeProyectosL.E.E.D&WELconSistemasBioclimático.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/MantenimientoAireAcondicionado.html</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/SistemasdeDuctosparaAireAcondiconadoyVentilación.html</loc>
+    <lastmod>2020-09-01<lastmod>
+
+     <loc> http://www.aireflex.com</loc>
+    <lastmod>2020-09-01<lastmod> 
+     <loc> http://www.aireflex.com/AireAcondicionadoAutomatizacionManejoyControl</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc> http://www.aireflex.com/AireAcondicionadoCuartosLimpios</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadodePrecisionparaCentrosdeComputo</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoEdificiosyCentroscomerciales</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoLaboratoriosyMetrologia</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoLaboratoriosyMetrologia</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoOficinasLocalesyViviendas</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoparaClinicasyHospitales</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/AireAcondicionadoParqueaderosCocinasBaños</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/CabinasdeDesinfeccionporNebulizacion</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/DiseñodeProyectosL.E.E.D&WELconSistemasBioclimático</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/MantenimientoAireAcondicionado</loc>
+    <lastmod>2020-09-01<lastmod>
+    <loc>http://www.aireflex.com/SistemasdeDuctosparaAireAcondiconadoyVentilación</loc>
+    <lastmod>2020-09-01<lastmod>
+ 
+    <image:image>
+      <image:loc>http://example.com/image.jpg</image:loc>
+      <image:caption>Aire Acondicionado</image:caption>
+      <image:geo_location>Bogota, Colombia</image:geo_location>
+      <image:title>Aire Acondicionado</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://example.com/photo.jpg</image:loc>
+    </image:image>
+    <changefreq>daily</changefreq>
+
+<priority>1.0</priority>
+  </url> 
+</urlset> 
