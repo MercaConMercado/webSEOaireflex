@@ -1,4 +1,4 @@
-User-agent: *
-Disallow:/wp-admin
-
-Sitemap:http://www.aireflex.com/sitemap.xml
+User-agent: *
+Allow: /
+Allow: /sitemap.htm
+Sitemap: https://aireflex.com/sitemap.xml
