@@ -1,1002 +1,1006 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url>
-    <loc>https://aireflex.com</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/AireAcondicionadoparaEdificiosyCentrosComercial.jpg</image:loc>
-      <image:title>Aire Acondicionado para Edificios y Centros Comerciales</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/AireAcondicionadodePrecisi%C3%B3nparaCentrosdeComputo.jpg</image:loc>
-      <image:title>Aire Acondicionado de Precisión para Centros de Computo</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/aireacondificonadosalacirugia.jpg</image:loc>
-      <image:title>Aire acondicionado para clinicas y hospitales</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/SistemasdeControlAmbientalparaLaboratoriosFarmac%C3%A9uticosydeMetrolog%C3%ADa.jpg</image:loc>
-      <image:title>aire acondicionado para laboratorios farmaceuticos y metrologia</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/SistemasdeControlAmbientalparaOficinas,Localesy%20Viviendas.jpg</image:loc>
-      <image:title>Aire acondicionado para oficinas, locales y viviendas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/CuartosLimpios.jpg</image:loc>
-      <image:title>Aire acondicionado para Cuartos Limpios</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Ventilaci%C3%B3nMec%C3%A1nicaparaParqueaderos,CocinasyBa%C3%B1os.jpg</image:loc>
-      <image:title>aire acondicionado para parqueaderos, cocinas y baños</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/SistemasdeDuctosparaAireAcondicionadoyVentilaci%C3%B3n.jpg</image:loc>
-      <image:title>Sistemas de Ductos para Aire Acondicionado y Ventilación</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Dise%C3%B1odeProyectosL.E.E.D&amp;WELL%20conSistemasBioclim%C3%A1ticos.jpg</image:loc>
-      <image:title>Diseño de Proyectos L.E.E.D &amp; WELL con Sistemas Bioclimáticos</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Automatizaci%C3%B3n,ManejoycontroldeEdificios.jpg</image:loc>
-      <image:title>Automatización, Manejo y control de Edificios</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/MantenimientoPlanificado.jpg</image:loc>
-      <image:title>Mantenimiento Planificado aire</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Cabina_Nebulizadora.png</image:loc>
-      <image:title>Cabinas de Desinfeccion por Nebulización</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/fondoblanco.jpg</image:loc>
-      <image:title>Card image cap</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/experiencia.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/compromiso.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/Calidad.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/EdificiosdeOficinasAireflex.png</image:loc>
-      <image:title>Aire acondicionado para edificios de oficina</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/Centros%20de%20DatosAireflex.png</image:loc>
-      <image:title>aire acondicionado para centros de datos</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/Cl%C3%ADnicas,HospitalesyCentros%20de%20Salud.png</image:loc>
-      <image:title>aire acondicionado para Clínicas,HospitalesyCentros de Salud</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/LaboratoriosyCuartosLimpios.png</image:loc>
-      <image:title>aire acondicionado para laboratorios y cuartos limpios</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/OficinasyLocalesComerciales.png</image:loc>
-      <image:title>aire acondicionado para Oficinas y locales comerciales</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/Dise%C3%B1odeProyectos.png</image:loc>
-      <image:title>Diseño de Proyectos de aire acondicionado</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/assets/Automatizaci%C3%B3n,ManejoyControldeEdificios(BMS).png</image:loc>
-      <image:title>Automatización, Manejo y Control de Edificios (BMS)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20torre%20ar.jpg</image:loc>
-      <image:title>Edificio torre ar</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logotorrear.png</image:loc>
-      <image:title>logo torre ar</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20torre%20ear.jpg</image:loc>
-      <image:title>Edificio torre ear</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20codensa%20calle%2093.jpg</image:loc>
-      <image:title>Codensa calle 93</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/codensa-u9869.png</image:loc>
-      <image:title>logo Codensa</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20edificio%20calle%20116.jpg</image:loc>
-      <image:title>Edificio calle 116</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20udca.jpg</image:loc>
-      <image:title>EDIFICIO UNIVERSIDAD UDCA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/udca-u10033.png</image:loc>
-      <image:title>logo LABORATORIOS UNIVERSIDAD UDCA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20dian%20alpujarra-u21349-fr.jpg</image:loc>
-      <image:title>DIAN</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20dian.png</image:loc>
-      <image:title>logo DIAN</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20terragona.jpg</image:loc>
-      <image:title>EDIFICIO CICR</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20banco%20mundial.jpg</image:loc>
-      <image:title>BANCO MUNDIAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20banco%20mundial.png</image:loc>
-      <image:title>logo BANCO MUNDIA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20lab%20criminal%C3%ADstica-u13561-fr.jpg</image:loc>
-      <image:title>LAB. DE CRIMINALISTICA DE TEGUCIGUALPA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20criminalistica%20tegusigalpa.png</image:loc>
-      <image:title>logo LAB. DE CRIMINALISTICA DE TEGUCIGUALPA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pecheviplan.jpg</image:loc>
-      <image:title>CHEVIPLAN</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/chevyplan-u9866.png</image:loc>
-      <image:title>logo CHEVIPLAN</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20torre%20scada-u11093-fr.jpg</image:loc>
-      <image:title>TORRE SCADA BOGOTA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20johnson%20y%20johnson%20calle%2094a-u11094-fr.jpg</image:loc>
-      <image:title>EDIFICIO JHONSON &amp; JHONSON CALLE 94A</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/jhonson-u12656.png</image:loc>
-      <image:title>logo EDIFICIO JHONSON &amp; JHONSON CALLE 94A</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20nepal%2073-u11095-fr.jpg</image:loc>
-      <image:title>EEDIFICIO NEPAL 73</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hangar%20de%20avianca-u11135-fr.jpg</image:loc>
-      <image:title>EDIFICIO HANGAR AVIANCA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/avianca-u12651.png</image:loc>
-      <image:title>logo HANGAR AVIANCA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20unisinu-u21079-fr.jpg</image:loc>
-      <image:title>UNISINU EDIFICIO CIENCIAS DE LA SALUD</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/unisinu-u10032.png</image:loc>
-      <image:title>logo UNISINU EDIFICIO CIENCIAS DE LA SALUD</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hotel%20karmair%C3%AD-u11137-fr.jpg</image:loc>
-      <image:title>HOTEL KARMAIRI</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Karmairi-Hotel-Spa.png</image:loc>
-      <image:title>logo HOTEL KARMAIRI</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20centro%20com%20iwoka%20sogamoso-u11203-fr.jpg</image:loc>
-      <image:title>CENTRO COMERCIAL IWOKA SOGAMOSO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/iwokacentrocomercial.jpeg</image:loc>
-      <image:title>logo CENTRO COMERCIAL IWOKA SOGAMOSO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20palacio%20episcopal%20quibd%C3%B3-u11204-fr.jpg</image:loc>
-      <image:title>PALACIO EPISCOPAL QUIBDO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20four%20seassons%20casa%20medina-u11205-fr.jpg</image:loc>
-      <image:title>FOUR SEASSONS CASA MEDINA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20recoleta%20de%20san%20diego-u14634-fr.jpg</image:loc>
-      <image:title>RECOLETA DE SAN DIEGO BOGOTA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20torre%20k.jpg</image:loc>
-      <image:title>TORRE K 5 BOGOTA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20sede%20aireflex-u14636-fr.jpg</image:loc>
-      <image:title>SEDE AIREFLEX</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20ecci-u20880-fr.jpg</image:loc>
-      <image:title>UNIVERSIDAD ECCI</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/ecci-u12703.png</image:loc>
-      <image:title>logo UNIVERSIDAD ECCI</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20contaduria%20general-u20881-fr.jpg</image:loc>
-      <image:title>CONTADURIA GENERAL DE LA NACION</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/CONTADURIA-GENERAL.jpg</image:loc>
-      <image:title>logo CONTADURIA GENERAL DE LA NACION</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20sena%20neiva-u20912-fr.jpg</image:loc>
-      <image:title>SENA (NEIVA, BARRANCABERMEJA,GIRON Y CARTAGENA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/sena-u12704.png</image:loc>
-      <image:title>logo SENA (NEIVA, BARRANCABERMEJA,GIRON Y CARTAGENA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/comision%20nacional.jpg</image:loc>
-      <image:title>COMISION NACIONAL DEL SERVICIO CIVIL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoCOMISION%20NACIONAL%20DEL%20SERVICIO%20CIVIL.png</image:loc>
-      <image:title>logo COMISION NACIONAL DEL SERVICIO CIVIL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20subestacion%20electrica-u20885-fr.jpg</image:loc>
-      <image:title>SUBESTACIÓN ELECTRICA JAGUAS (ANTIOQUIA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20gobernacion%20cesar.jpg</image:loc>
-      <image:title>GOBERNACIÓN DEL CESAR</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-gob-Cesar.png</image:loc>
-      <image:title>logo GOBERNACIÓN DEL CESAR</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20instituto%20medicina%20legal-u20890-fr.jpg</image:loc>
-      <image:title>INSTITUTO DE MEDICINA LEGAL BOGOTA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/medicina_legal.png</image:loc>
-      <image:title>logo GOBERNACIÓN DEL CESAR</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20procuraduria%20general-u20891-fr.jpg</image:loc>
-      <image:title>PROCURADURIA GENERAL DE LA NACION</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoprocuraduria.png</image:loc>
-      <image:title>logo PROCURADURIA GENERAL DE LA NACION</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20empresa%20de%20energia-u20892-fr.jpg</image:loc>
-      <image:title>EMPRESA DE ENERGIA DE BOGOTA S.A</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/EMPRESA%20DE%20ENERGIA%20DE%20BOGOTA%20S.A.png</image:loc>
-      <image:title>logo EMPRESA DE ENERGIA DE BOGOTA S.A</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20universidad%20bolivariana%20bucaramanga-u20896-fr.jpg</image:loc>
-      <image:title>PONTIFICIA UNIVERSIDAD BOLIVARIANA (BUCARAMANGA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/universidadpontificiabolivariana.png</image:loc>
-      <image:title>logo PONTIFICIA UNIVERSIDAD BOLIVARIANA (BUCARAMANGA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20protabaco.jpg</image:loc>
-      <image:title>PROTABACO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-Protabaco.jpg</image:loc>
-      <image:title>logo PROTABACO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20universidad%20populas%20cesar-u20898-fr.jpg</image:loc>
-      <image:title>UNIVERSIDAD POPULAR DEL CESAR</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoUNIVERSIDAD%20POPULAR%20DEL%20CESAR.png</image:loc>
-      <image:title>logo UNIVERSIDAD POPULAR DEL CESAR</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20museo%20nacional-u20902-fr.jpg</image:loc>
-      <image:title>MUSEO NACIONAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/museo%20nacional-u9898.png</image:loc>
-      <image:title>logo MUSEO NACIONAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20avon%20medellin-u20903-fr.jpg</image:loc>
-      <image:title>AVON (MEDELLÍN)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/avon-u12706.png</image:loc>
-      <image:title>logo AVON (MEDELLÍN)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20universidad%20san%20buenaventura-u20904-fr.jpg</image:loc>
-      <image:title>UNIVERSIDAD SAN BUENAVENTURA (BOGOTA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/universidad%20san%20buenaventura.png</image:loc>
-      <image:title>logo UNIVERSIDAD SAN BUENAVENTURA (BOGOTA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20universidad%20nacional-u20908-fr.jpg</image:loc>
-      <image:title>UNIVERSIDAD NACIONAL (BOGOTA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/unal-u9923.png</image:loc>
-      <image:title>logo MUSEO NACIONAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20ricoh-u20909-fr.jpg</image:loc>
-      <image:title>RICOH (BOGOTA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/ricoh-u10210.png</image:loc>
-      <image:title>logo RICOH (BOGOTA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospital%20de%20suba.jpg</image:loc>
-      <image:title>HOSPITAL DE SUBA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/hospital%20suba-u12724.png</image:loc>
-      <image:title>logo HOSPITAL DE SUBA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospital%20de%20granada.jpg</image:loc>
-      <image:title>HOSPITAL DE GRANADA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospittal%20rosario%20pumarejo-u21012-fr.jpg</image:loc>
-      <image:title>HOSPITAL ROSARIO PUMAREJO DE LOPEZ (VALLEDUPAR)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/hospital%20pumarejo-u12727.png</image:loc>
-      <image:title>logo HOSPITAL ROSARIO PUMAREJO DE LOPEZ (VALLEDUPAR)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospital%20de%20fontibon-u20986-fr.jpg</image:loc>
-      <image:title>HOSPITAL DE FONTIBON</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/HOSPITAL%20DE%20FONTIBON.jpg</image:loc>
-      <image:title>logo HOSPITAL DE FONTIBON</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20clinica%20santa%20catalina-u20987-fr.jpg</image:loc>
-      <image:title>CLINICA UNIVERSITARIA SANTA CATALINA (TUNJA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20clinica%20cartagena%20del%20mar-u20988-fr.jpg</image:loc>
-      <image:title>CLINICA CARTAGENA DEL MAR (CARTAGENA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/clinica%20cartagena%20del%20mar-u9970.png</image:loc>
-      <image:title>logo CLINICA CARTAGENA DEL MAR (CARTAGENA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospital%20san%20andres%20de%20tumaco-u20992-fr.jpg</image:loc>
-      <image:title>HOSPITAL SAN ANDRÉS DE TUMACO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/HOSPITAL%20SAN%20ANDR%C3%89S%20DE%20TUMACO.jpg</image:loc>
-      <image:title>logo HOSPITAL SAN ANDRÉS DE TUMACO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20clinica%20el%20laguito-u20993-fr.jpg</image:loc>
-      <image:title>CLINICA EL LAGUITO (DUITAMA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20cami%20chapinero-u20994-fr.jpg</image:loc>
-      <image:title>CAMI CHAPINERO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospital%20el%20tintal-u20998-fr.jpg</image:loc>
-      <image:title>HOSPITAL EL TINTAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospital%20montelibado.jpg</image:loc>
-      <image:title>HOSPITAL DE MONTELIBANO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoHOSPITAL%20DE%20MONTELIBANO.jpg</image:loc>
-      <image:title>logo HOSPITAL DE MONTELIBANO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20sociedad%20de%20cirugia%20ocular-u21000-fr.jpg</image:loc>
-      <image:title>SOCIEDAD DE CIRUGÍA OCULAR</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20SOCIEDAD%20DE%20CIRUG%C3%8DA%20OCULAR.png</image:loc>
-      <image:title>logo SOCIEDAD DE CIRUGÍA OCULAR</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20nueva%20eps%20armenia-u21004-fr.jpg</image:loc>
-      <image:title>NUEVA EPS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/nueva%20eps-u12725.png</image:loc>
-      <image:title>logo NUEVA EPS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20clinica%20corpo%20laser-u23816-fr.jpg</image:loc>
-      <image:title>CORPOLASER</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20instituto%20de%20cancerologia-u21006-fr.jpg</image:loc>
-      <image:title>INSTITUTO CANCEROLOGICO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoINSTITUTO%20CANCEROLOGICO.png</image:loc>
-      <image:title>logo INSTITUTO CANCEROLOGICO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20profamilia%20bucaramanga-u21010-fr.jpg</image:loc>
-      <image:title>PROFAMILIA BUCARAMANGA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/profamilia-u12728.png</image:loc>
-      <image:title>logo PROFAMILIA BUCARAMANGA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hemocentro%20distrital.jpg</image:loc>
-      <image:title>HEMOCENTRO DISTRITAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/hemocentro-u10031.png</image:loc>
-      <image:title>logo HEMOCENTRO DISTRITAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20lab%20indumil-u21083-fr.jpg</image:loc>
-      <image:title>LAB. DE METROLOGIA INDUMIL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/indumil.png</image:loc>
-      <image:title>logo AB. DE METROLOGIA INDUMIL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20fondo%20financiero%20distrital%20de%20salud-u21088-fr.jpg</image:loc>
-      <image:title>FONDO FINANCIERO DISTRITAL DE SALUD (BANCO DE TEJIDOS)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20alcaldia%20de%20salud.png</image:loc>
-      <image:title>logo LABORATORIOS UNIVERSIDAD UDCA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20fuerza%20aerea%20colombiana.jpg</image:loc>
-      <image:title>LAB. FUERZA AEREA COLOMBIANA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/fac-u10029.png</image:loc>
-      <image:title>logo LABORATORIOS UNIVERSIDAD UDCA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20cti%20fiscalia.jpg</image:loc>
-      <image:title>CAMI CHAPINERO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/cuerpo_t%C3%A9cnico_de_investigaci%C3%B3n-u10030-fr.png</image:loc>
-      <image:title>logo LABORATORIOS UNIVERSIDAD UDCA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20falabella.jpg</image:loc>
-      <image:title>FALABELLA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/fallabella-u10095.png</image:loc>
-      <image:title>logo FALABELLA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20ossa%20lopez-u21151-fr.jpg</image:loc>
-      <image:title>OSSA LOPEZ</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20osa%20lopez.png</image:loc>
-      <image:title>Logo OSSA LOPEZ</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20u%20salle-u21128-fr.jpg</image:loc>
-      <image:title>UNIVERSIDAD DE LA SALLE</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/u%20salle-u10094.png</image:loc>
-      <image:title>logo UNIVERSIDAD DE LA SALLE</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20linio%20colombia-u21129-fr.jpg</image:loc>
-      <image:title>LINIO COLOMBIA S.A.S</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Logo%20lino.png</image:loc>
-      <image:title>logo LINIO COLOMBIA S.A.S</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20emermedica-u21133-fr.jpg</image:loc>
-      <image:title>EMERMEDICA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/emermedica-u10091.png</image:loc>
-      <image:title>logo EMERMEDICA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20abinbev-u21134-fr.jpg</image:loc>
-      <image:title>ABINBEV</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20ABINBEV.png</image:loc>
-      <image:title>logo ABINBEV</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20chubb%20seguros-u21135-fr.jpg</image:loc>
-      <image:title>CHUBB SEGUROS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20chubb.png</image:loc>
-      <image:title>logo CHUBB SEGUROS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20archivo%20general%20de%20la%20nacion-u21139-fr.jpg</image:loc>
-      <image:title>ARCHIVO GENERAL DE LA NACION</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/agn-u10093.png</image:loc>
-      <image:title>logo ARCHIVO GENERAL DE LA NACION</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20imprenta%20nacional%20de%20colombia-u21140-fr.jpg</image:loc>
-      <image:title>IMPRENTA NACIONAL DE COLOMBIA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/imprentanacionaldecolombia.png</image:loc>
-      <image:title>logo IMPRENTA NACIONAL DE COLOMBIA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20universidad%20el%20bosque-u21145-fr.jpg</image:loc>
-      <image:title>UNIVERSIDAD EL BOSQUE</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/u%20bosque-u10092.png</image:loc>
-      <image:title>logo UNIVERSIDAD EL BOSQUE</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20coomeva-u21146-fr.jpg</image:loc>
-      <image:title>COOMEVA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logocoomeva.png</image:loc>
-      <image:title>logo COOMEVA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20ingnieria%20de%20vias-u21147-fr.jpg</image:loc>
-      <image:title>INGENIERIA DE VIAS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20INGENIERIA%20DE%20VIAS.png</image:loc>
-      <image:title>logo INGENIERIA DE VIAS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20fundacion%20social-u21214-fr.jpg</image:loc>
-      <image:title>FUNDACION SOCIAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20FUNDACION%20SOCIAL.png</image:loc>
-      <image:title>logo FUNDACION SOCIAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/banco%20bogota-u10186.png</image:loc>
-      <image:title>Logo BANCO DE BOGOTA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospital%20san%20juan%20de%20dios-u21230-fr.jpg</image:loc>
-      <image:title>HOSPITAL SAN JUAN DE DIOS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/LOGO%20HOSPITAL%20SAN%20JUAN%20DE%20DIOS.png</image:loc>
-      <image:title>logo HOSPITAL SAN JUAN DE DIOS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hotel%20capital-u21237-fr.jpg</image:loc>
-      <image:title>HOTEL CAPITAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/ghl-u10190.png</image:loc>
-      <image:title>logo HOTEL CAPITAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20teleton%20colombia-u21241-fr.jpg</image:loc>
-      <image:title>TELETON CARTAGENA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Telet%C3%B3n_2011.png</image:loc>
-      <image:title>logo TELETON CARTAGENA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20clinica%20de%20la%20mujer-u21242-fr.jpg</image:loc>
-      <image:title>CLINICA DE LA MUJER</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/mujer-u10189.png</image:loc>
-      <image:title>logo CLINICA DE LA MUJER</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20oxo%20center-u21243-fr.jpg</image:loc>
-      <image:title>OXO CENTER</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20centro%20de%20navegacion.jpg</image:loc>
-      <image:title>CENTRO NACIONAL DE AERONAVEGACION (CNA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20CENTRO%20NACIONAL%20DE%20AERONAVEGACION%20(CNA).png</image:loc>
-      <image:title>logo CENTRO NACIONAL DE AERONAVEGACION (CNA)</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20u%20distrital-u21332-fr.jpg</image:loc>
-      <image:title>UNIVERSIDAD DISTRITAL BOGOTA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/distrital-u10208.png</image:loc>
-      <image:title>logo UNIVERSIDAD DISTRITAL BOGOTA</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20superintendencia-u21337-fr.jpg</image:loc>
-      <image:title>SÚPER INTENDENCIA DE INDUSTRIA Y COMERCIO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/industtria%20y%20comercio-u10209.png</image:loc>
-      <image:title>logo SÚPER INTENDENCIA DE INDUSTRIA Y COMERCIO</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20gobrenacion%20del%20meta-u21343-fr.jpg</image:loc>
-      <image:title>GOBERNACIÓN DEL META</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20GOBERNACI%C3%93N%20DEL%20META.png</image:loc>
-      <image:title>logo GOBERNACIÓN DEL META</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20hospital%20san%20blas-u21359-fr.jpg</image:loc>
-      <image:title>HOSPITAL SAN BLAS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20HOSPITAL%20SAN%20BLAS.png</image:loc>
-      <image:title>logo HOSPITAL SAN BLAS</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/pe%20batallon%20de%20mantenimiento.jpg</image:loc>
-      <image:title>BATALLÓN DE MANTENIMIENTO EJERCITO NACIONAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoBATALL%C3%93N%20DE%20MANTENIMIENTO%20EJERCITO%20NACIONAL.png</image:loc>
-      <image:title>logo BATALLÓN DE MANTENIMIENTO EJERCITO NACIONAL</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20aireflex.gif</image:loc>
-      <image:title>Aireflex intelligent system</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Logo_Digital_inverter.png</image:loc>
-      <image:title>Digital Inverter</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo%20data.png</image:loc>
-      <image:title>Data computer room units</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Safe-Plus-Logo.png</image:loc>
-      <image:title>Safe plus</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/AireAcondicionadoEdificiosyCentroscomerciales</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/assets/brochure_aireflex.pdf</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/aliadosaireflex.html</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/assets/PorQueContratarConAIREFLEX.pdf</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/MantenimientoAireAcondicionado</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/CabinasdeDesinfeccionporNebulizacion</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/Safe-Plus-Logo.png</image:loc>
-      <image:title>Safe plus</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/DiseñodeProyectosL.E.E.D&amp;WELconSistemasBioclimático</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/LEED-Certified-Aireflex.png</image:loc>
-      <image:title>Certicficacion LEEED aireflex</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/SistemasdeDuctosparaAireAcondiconadoyVentilación</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/AireAcondicionadoCuartosLimpios</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/AireAcondicionadoparaClinicasyHospitales</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/AireAcondicionadoOficinasLocalesyViviendas</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/assets/Cabina de Desinfeccion por Nebulizacion ~SAFE PLUS~ Aireflex De Colombia SAS.pdf</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/AireAcondicionadoAutomatizacionManejoyControl</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/AireAcondicionadoParqueaderosCocinasBaños</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/marcasoficinaslocalesviviendas.html</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/assets/Ficha Técnica DATA CRHF-VRF-2020-1.pdf</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/AireAcondicionadoLaboratoriosyMetrologia</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
-      <image:title>logo aireflex de colombia sas</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
-      <image:title>brochure aireflex</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://aireflex.com/assets/Ficha Tecnica DATA CRVF-mini-2020-1.pdf</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/marcasedificiosycentroscomerciales.html</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/assets/Ficha Técnica DATA CRVF-VRF-2020-2.pdf</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://aireflex.com/marcaslaboratoriosymetrologia.html</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-</urlset>
-<!--<guid value="55ad0e0d-292e-4eff-b475-e35faa40a59f" />-->
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://aireflex.com</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/AireAcondicionadoparaEdificiosyCentrosComercial.jpg</image:loc>
+      <image:title>Aire Acondicionado para Edificios y Centros Comerciales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/AireAcondicionadodePrecisi%C3%B3nparaCentrosdeComputo.jpg</image:loc>
+      <image:title>Aire Acondicionado de Precisión para Centros de Computo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/aireacondificonadosalacirugia.jpg</image:loc>
+      <image:title>Aire acondicionado para clinicas y hospitales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/SistemasdeControlAmbientalparaLaboratoriosFarmac%C3%A9uticosydeMetrolog%C3%ADa.jpg</image:loc>
+      <image:title>aire acondicionado para laboratorios farmaceuticos y metrologia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/SistemasdeControlAmbientalparaOficinas,Localesy%20Viviendas.jpg</image:loc>
+      <image:title>Aire acondicionado para oficinas, locales y viviendas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/CuartosLimpios.jpg</image:loc>
+      <image:title>Aire acondicionado para Cuartos Limpios</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Ventilaci%C3%B3nMec%C3%A1nicaparaParqueaderos,CocinasyBa%C3%B1os.jpg</image:loc>
+      <image:title>aire acondicionado para parqueaderos, cocinas y baños</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/SistemasdeDuctosparaAireAcondicionadoyVentilaci%C3%B3n.jpg</image:loc>
+      <image:title>Sistemas de Ductos para Aire Acondicionado y Ventilación</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Dise%C3%B1odeProyectosL.E.E.D&amp;WELL%20conSistemasBioclim%C3%A1ticos.jpg</image:loc>
+      <image:title>Diseño de Proyectos L.E.E.D &amp; WELL con Sistemas Bioclimáticos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Automatizaci%C3%B3n,ManejoycontroldeEdificios.jpg</image:loc>
+      <image:title>Automatización, Manejo y control de Edificios</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/MantenimientoPlanificado.jpg</image:loc>
+      <image:title>Mantenimiento Planificado aire</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Cabina_Nebulizadora.png</image:loc>
+      <image:title>Cabinas de Desinfeccion por Nebulización</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/fondoblanco.jpg</image:loc>
+      <image:title>Card image cap</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/experiencia.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/compromiso.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/Calidad.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/EdificiosdeOficinasAireflex.png</image:loc>
+      <image:title>Aire acondicionado para edificios de oficina</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/Centros%20de%20DatosAireflex.png</image:loc>
+      <image:title>aire acondicionado para centros de datos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/Cl%C3%ADnicas,HospitalesyCentros%20de%20Salud.png</image:loc>
+      <image:title>aire acondicionado para Clínicas,HospitalesyCentros de Salud</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/LaboratoriosyCuartosLimpios.png</image:loc>
+      <image:title>aire acondicionado para laboratorios y cuartos limpios</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/OficinasyLocalesComerciales.png</image:loc>
+      <image:title>aire acondicionado para Oficinas y locales comerciales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/Dise%C3%B1odeProyectos.png</image:loc>
+      <image:title>Diseño de Proyectos de aire acondicionado</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/assets/Automatizaci%C3%B3n,ManejoyControldeEdificios(BMS).png</image:loc>
+      <image:title>Automatización, Manejo y Control de Edificios (BMS)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20torre%20ar.jpg</image:loc>
+      <image:title>Edificio torre ar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logotorrear.png</image:loc>
+      <image:title>logo torre ar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20torre%20ear.jpg</image:loc>
+      <image:title>Edificio torre ear</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20codensa%20calle%2093.jpg</image:loc>
+      <image:title>Codensa calle 93</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/codensa-u9869.png</image:loc>
+      <image:title>logo Codensa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20edificio%20calle%20116.jpg</image:loc>
+      <image:title>Edificio calle 116</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20udca.jpg</image:loc>
+      <image:title>EDIFICIO UNIVERSIDAD UDCA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/udca-u10033.png</image:loc>
+      <image:title>logo LABORATORIOS UNIVERSIDAD UDCA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20dian%20alpujarra-u21349-fr.jpg</image:loc>
+      <image:title>DIAN</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20dian.png</image:loc>
+      <image:title>logo DIAN</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20terragona.jpg</image:loc>
+      <image:title>EDIFICIO CICR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20banco%20mundial.jpg</image:loc>
+      <image:title>BANCO MUNDIAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20banco%20mundial.png</image:loc>
+      <image:title>logo BANCO MUNDIA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20lab%20criminal%C3%ADstica-u13561-fr.jpg</image:loc>
+      <image:title>LAB. DE CRIMINALISTICA DE TEGUCIGUALPA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20criminalistica%20tegusigalpa.png</image:loc>
+      <image:title>logo LAB. DE CRIMINALISTICA DE TEGUCIGUALPA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pecheviplan.jpg</image:loc>
+      <image:title>CHEVIPLAN</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/chevyplan-u9866.png</image:loc>
+      <image:title>logo CHEVIPLAN</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20torre%20scada-u11093-fr.jpg</image:loc>
+      <image:title>TORRE SCADA BOGOTA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20johnson%20y%20johnson%20calle%2094a-u11094-fr.jpg</image:loc>
+      <image:title>EDIFICIO JHONSON &amp; JHONSON CALLE 94A</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/jhonson-u12656.png</image:loc>
+      <image:title>logo EDIFICIO JHONSON &amp; JHONSON CALLE 94A</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20nepal%2073-u11095-fr.jpg</image:loc>
+      <image:title>EEDIFICIO NEPAL 73</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hangar%20de%20avianca-u11135-fr.jpg</image:loc>
+      <image:title>EDIFICIO HANGAR AVIANCA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/avianca-u12651.png</image:loc>
+      <image:title>logo HANGAR AVIANCA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20unisinu-u21079-fr.jpg</image:loc>
+      <image:title>UNISINU EDIFICIO CIENCIAS DE LA SALUD</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/unisinu-u10032.png</image:loc>
+      <image:title>logo UNISINU EDIFICIO CIENCIAS DE LA SALUD</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hotel%20karmair%C3%AD-u11137-fr.jpg</image:loc>
+      <image:title>HOTEL KARMAIRI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Karmairi-Hotel-Spa.png</image:loc>
+      <image:title>logo HOTEL KARMAIRI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20centro%20com%20iwoka%20sogamoso-u11203-fr.jpg</image:loc>
+      <image:title>CENTRO COMERCIAL IWOKA SOGAMOSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/iwokacentrocomercial.jpeg</image:loc>
+      <image:title>logo CENTRO COMERCIAL IWOKA SOGAMOSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20palacio%20episcopal%20quibd%C3%B3-u11204-fr.jpg</image:loc>
+      <image:title>PALACIO EPISCOPAL QUIBDO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20four%20seassons%20casa%20medina-u11205-fr.jpg</image:loc>
+      <image:title>FOUR SEASSONS CASA MEDINA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20recoleta%20de%20san%20diego-u14634-fr.jpg</image:loc>
+      <image:title>RECOLETA DE SAN DIEGO BOGOTA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20torre%20k.jpg</image:loc>
+      <image:title>TORRE K 5 BOGOTA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20sede%20aireflex-u14636-fr.jpg</image:loc>
+      <image:title>SEDE AIREFLEX</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20ecci-u20880-fr.jpg</image:loc>
+      <image:title>UNIVERSIDAD ECCI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/ecci-u12703.png</image:loc>
+      <image:title>logo UNIVERSIDAD ECCI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20contaduria%20general-u20881-fr.jpg</image:loc>
+      <image:title>CONTADURIA GENERAL DE LA NACION</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/CONTADURIA-GENERAL.jpg</image:loc>
+      <image:title>logo CONTADURIA GENERAL DE LA NACION</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20sena%20neiva-u20912-fr.jpg</image:loc>
+      <image:title>SENA (NEIVA, BARRANCABERMEJA,GIRON Y CARTAGENA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/sena-u12704.png</image:loc>
+      <image:title>logo SENA (NEIVA, BARRANCABERMEJA,GIRON Y CARTAGENA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/comision%20nacional.jpg</image:loc>
+      <image:title>COMISION NACIONAL DEL SERVICIO CIVIL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoCOMISION%20NACIONAL%20DEL%20SERVICIO%20CIVIL.png</image:loc>
+      <image:title>logo COMISION NACIONAL DEL SERVICIO CIVIL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20subestacion%20electrica-u20885-fr.jpg</image:loc>
+      <image:title>SUBESTACIÓN ELECTRICA JAGUAS (ANTIOQUIA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20gobernacion%20cesar.jpg</image:loc>
+      <image:title>GOBERNACIÓN DEL CESAR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-gob-Cesar.png</image:loc>
+      <image:title>logo GOBERNACIÓN DEL CESAR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20instituto%20medicina%20legal-u20890-fr.jpg</image:loc>
+      <image:title>INSTITUTO DE MEDICINA LEGAL BOGOTA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/medicina_legal.png</image:loc>
+      <image:title>logo GOBERNACIÓN DEL CESAR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20procuraduria%20general-u20891-fr.jpg</image:loc>
+      <image:title>PROCURADURIA GENERAL DE LA NACION</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoprocuraduria.png</image:loc>
+      <image:title>logo PROCURADURIA GENERAL DE LA NACION</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20empresa%20de%20energia-u20892-fr.jpg</image:loc>
+      <image:title>EMPRESA DE ENERGIA DE BOGOTA S.A</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/EMPRESA%20DE%20ENERGIA%20DE%20BOGOTA%20S.A.png</image:loc>
+      <image:title>logo EMPRESA DE ENERGIA DE BOGOTA S.A</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20universidad%20bolivariana%20bucaramanga-u20896-fr.jpg</image:loc>
+      <image:title>PONTIFICIA UNIVERSIDAD BOLIVARIANA (BUCARAMANGA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/universidadpontificiabolivariana.png</image:loc>
+      <image:title>logo PONTIFICIA UNIVERSIDAD BOLIVARIANA (BUCARAMANGA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20protabaco.jpg</image:loc>
+      <image:title>PROTABACO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-Protabaco.jpg</image:loc>
+      <image:title>logo PROTABACO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20universidad%20populas%20cesar-u20898-fr.jpg</image:loc>
+      <image:title>UNIVERSIDAD POPULAR DEL CESAR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoUNIVERSIDAD%20POPULAR%20DEL%20CESAR.png</image:loc>
+      <image:title>logo UNIVERSIDAD POPULAR DEL CESAR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20museo%20nacional-u20902-fr.jpg</image:loc>
+      <image:title>MUSEO NACIONAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/museo%20nacional-u9898.png</image:loc>
+      <image:title>logo MUSEO NACIONAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20avon%20medellin-u20903-fr.jpg</image:loc>
+      <image:title>AVON (MEDELLÍN)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/avon-u12706.png</image:loc>
+      <image:title>logo AVON (MEDELLÍN)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20universidad%20san%20buenaventura-u20904-fr.jpg</image:loc>
+      <image:title>UNIVERSIDAD SAN BUENAVENTURA (BOGOTA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/universidad%20san%20buenaventura.png</image:loc>
+      <image:title>logo UNIVERSIDAD SAN BUENAVENTURA (BOGOTA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20universidad%20nacional-u20908-fr.jpg</image:loc>
+      <image:title>UNIVERSIDAD NACIONAL (BOGOTA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/unal-u9923.png</image:loc>
+      <image:title>logo MUSEO NACIONAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20ricoh-u20909-fr.jpg</image:loc>
+      <image:title>RICOH (BOGOTA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/ricoh-u10210.png</image:loc>
+      <image:title>logo RICOH (BOGOTA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospital%20de%20suba.jpg</image:loc>
+      <image:title>HOSPITAL DE SUBA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/hospital%20suba-u12724.png</image:loc>
+      <image:title>logo HOSPITAL DE SUBA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospital%20de%20granada.jpg</image:loc>
+      <image:title>HOSPITAL DE GRANADA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospittal%20rosario%20pumarejo-u21012-fr.jpg</image:loc>
+      <image:title>HOSPITAL ROSARIO PUMAREJO DE LOPEZ (VALLEDUPAR)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/hospital%20pumarejo-u12727.png</image:loc>
+      <image:title>logo HOSPITAL ROSARIO PUMAREJO DE LOPEZ (VALLEDUPAR)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospital%20de%20fontibon-u20986-fr.jpg</image:loc>
+      <image:title>HOSPITAL DE FONTIBON</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/HOSPITAL%20DE%20FONTIBON.jpg</image:loc>
+      <image:title>logo HOSPITAL DE FONTIBON</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20clinica%20santa%20catalina-u20987-fr.jpg</image:loc>
+      <image:title>CLINICA UNIVERSITARIA SANTA CATALINA (TUNJA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20clinica%20cartagena%20del%20mar-u20988-fr.jpg</image:loc>
+      <image:title>CLINICA CARTAGENA DEL MAR (CARTAGENA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/clinica%20cartagena%20del%20mar-u9970.png</image:loc>
+      <image:title>logo CLINICA CARTAGENA DEL MAR (CARTAGENA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospital%20san%20andres%20de%20tumaco-u20992-fr.jpg</image:loc>
+      <image:title>HOSPITAL SAN ANDRÉS DE TUMACO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/HOSPITAL%20SAN%20ANDR%C3%89S%20DE%20TUMACO.jpg</image:loc>
+      <image:title>logo HOSPITAL SAN ANDRÉS DE TUMACO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20clinica%20el%20laguito-u20993-fr.jpg</image:loc>
+      <image:title>CLINICA EL LAGUITO (DUITAMA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20cami%20chapinero-u20994-fr.jpg</image:loc>
+      <image:title>CAMI CHAPINERO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospital%20el%20tintal-u20998-fr.jpg</image:loc>
+      <image:title>HOSPITAL EL TINTAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospital%20montelibado.jpg</image:loc>
+      <image:title>HOSPITAL DE MONTELIBANO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoHOSPITAL%20DE%20MONTELIBANO.jpg</image:loc>
+      <image:title>logo HOSPITAL DE MONTELIBANO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20sociedad%20de%20cirugia%20ocular-u21000-fr.jpg</image:loc>
+      <image:title>SOCIEDAD DE CIRUGÍA OCULAR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20SOCIEDAD%20DE%20CIRUG%C3%8DA%20OCULAR.png</image:loc>
+      <image:title>logo SOCIEDAD DE CIRUGÍA OCULAR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20nueva%20eps%20armenia-u21004-fr.jpg</image:loc>
+      <image:title>NUEVA EPS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/nueva%20eps-u12725.png</image:loc>
+      <image:title>logo NUEVA EPS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20clinica%20corpo%20laser-u23816-fr.jpg</image:loc>
+      <image:title>CORPOLASER</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20instituto%20de%20cancerologia-u21006-fr.jpg</image:loc>
+      <image:title>INSTITUTO CANCEROLOGICO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoINSTITUTO%20CANCEROLOGICO.png</image:loc>
+      <image:title>logo INSTITUTO CANCEROLOGICO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20profamilia%20bucaramanga-u21010-fr.jpg</image:loc>
+      <image:title>PROFAMILIA BUCARAMANGA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/profamilia-u12728.png</image:loc>
+      <image:title>logo PROFAMILIA BUCARAMANGA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hemocentro%20distrital.jpg</image:loc>
+      <image:title>HEMOCENTRO DISTRITAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/hemocentro-u10031.png</image:loc>
+      <image:title>logo HEMOCENTRO DISTRITAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20lab%20indumil-u21083-fr.jpg</image:loc>
+      <image:title>LAB. DE METROLOGIA INDUMIL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/indumil.png</image:loc>
+      <image:title>logo AB. DE METROLOGIA INDUMIL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20fondo%20financiero%20distrital%20de%20salud-u21088-fr.jpg</image:loc>
+      <image:title>FONDO FINANCIERO DISTRITAL DE SALUD (BANCO DE TEJIDOS)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20alcaldia%20de%20salud.png</image:loc>
+      <image:title>logo LABORATORIOS UNIVERSIDAD UDCA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20fuerza%20aerea%20colombiana.jpg</image:loc>
+      <image:title>LAB. FUERZA AEREA COLOMBIANA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/fac-u10029.png</image:loc>
+      <image:title>logo LABORATORIOS UNIVERSIDAD UDCA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20cti%20fiscalia.jpg</image:loc>
+      <image:title>CAMI CHAPINERO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/cuerpo_t%C3%A9cnico_de_investigaci%C3%B3n-u10030-fr.png</image:loc>
+      <image:title>logo LABORATORIOS UNIVERSIDAD UDCA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20falabella.jpg</image:loc>
+      <image:title>FALABELLA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/fallabella-u10095.png</image:loc>
+      <image:title>logo FALABELLA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20ossa%20lopez-u21151-fr.jpg</image:loc>
+      <image:title>OSSA LOPEZ</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20osa%20lopez.png</image:loc>
+      <image:title>Logo OSSA LOPEZ</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20u%20salle-u21128-fr.jpg</image:loc>
+      <image:title>UNIVERSIDAD DE LA SALLE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/u%20salle-u10094.png</image:loc>
+      <image:title>logo UNIVERSIDAD DE LA SALLE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20linio%20colombia-u21129-fr.jpg</image:loc>
+      <image:title>LINIO COLOMBIA S.A.S</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Logo%20lino.png</image:loc>
+      <image:title>logo LINIO COLOMBIA S.A.S</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20emermedica-u21133-fr.jpg</image:loc>
+      <image:title>EMERMEDICA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/emermedica-u10091.png</image:loc>
+      <image:title>logo EMERMEDICA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20abinbev-u21134-fr.jpg</image:loc>
+      <image:title>ABINBEV</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20ABINBEV.png</image:loc>
+      <image:title>logo ABINBEV</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20chubb%20seguros-u21135-fr.jpg</image:loc>
+      <image:title>CHUBB SEGUROS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20chubb.png</image:loc>
+      <image:title>logo CHUBB SEGUROS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20archivo%20general%20de%20la%20nacion-u21139-fr.jpg</image:loc>
+      <image:title>ARCHIVO GENERAL DE LA NACION</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/agn-u10093.png</image:loc>
+      <image:title>logo ARCHIVO GENERAL DE LA NACION</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20imprenta%20nacional%20de%20colombia-u21140-fr.jpg</image:loc>
+      <image:title>IMPRENTA NACIONAL DE COLOMBIA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/imprentanacionaldecolombia.png</image:loc>
+      <image:title>logo IMPRENTA NACIONAL DE COLOMBIA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20universidad%20el%20bosque-u21145-fr.jpg</image:loc>
+      <image:title>UNIVERSIDAD EL BOSQUE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/u%20bosque-u10092.png</image:loc>
+      <image:title>logo UNIVERSIDAD EL BOSQUE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20coomeva-u21146-fr.jpg</image:loc>
+      <image:title>COOMEVA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logocoomeva.png</image:loc>
+      <image:title>logo COOMEVA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20ingnieria%20de%20vias-u21147-fr.jpg</image:loc>
+      <image:title>INGENIERIA DE VIAS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20INGENIERIA%20DE%20VIAS.png</image:loc>
+      <image:title>logo INGENIERIA DE VIAS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20fundacion%20social-u21214-fr.jpg</image:loc>
+      <image:title>FUNDACION SOCIAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20FUNDACION%20SOCIAL.png</image:loc>
+      <image:title>logo FUNDACION SOCIAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/banco%20bogota-u10186.png</image:loc>
+      <image:title>Logo BANCO DE BOGOTA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospital%20san%20juan%20de%20dios-u21230-fr.jpg</image:loc>
+      <image:title>HOSPITAL SAN JUAN DE DIOS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/LOGO%20HOSPITAL%20SAN%20JUAN%20DE%20DIOS.png</image:loc>
+      <image:title>logo HOSPITAL SAN JUAN DE DIOS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hotel%20capital-u21237-fr.jpg</image:loc>
+      <image:title>HOTEL CAPITAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/ghl-u10190.png</image:loc>
+      <image:title>logo HOTEL CAPITAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20teleton%20colombia-u21241-fr.jpg</image:loc>
+      <image:title>TELETON CARTAGENA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Telet%C3%B3n_2011.png</image:loc>
+      <image:title>logo TELETON CARTAGENA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20clinica%20de%20la%20mujer-u21242-fr.jpg</image:loc>
+      <image:title>CLINICA DE LA MUJER</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/mujer-u10189.png</image:loc>
+      <image:title>logo CLINICA DE LA MUJER</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20oxo%20center-u21243-fr.jpg</image:loc>
+      <image:title>OXO CENTER</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20centro%20de%20navegacion.jpg</image:loc>
+      <image:title>CENTRO NACIONAL DE AERONAVEGACION (CNA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20CENTRO%20NACIONAL%20DE%20AERONAVEGACION%20(CNA).png</image:loc>
+      <image:title>logo CENTRO NACIONAL DE AERONAVEGACION (CNA)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20u%20distrital-u21332-fr.jpg</image:loc>
+      <image:title>UNIVERSIDAD DISTRITAL BOGOTA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/distrital-u10208.png</image:loc>
+      <image:title>logo UNIVERSIDAD DISTRITAL BOGOTA</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20superintendencia-u21337-fr.jpg</image:loc>
+      <image:title>SÚPER INTENDENCIA DE INDUSTRIA Y COMERCIO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/industtria%20y%20comercio-u10209.png</image:loc>
+      <image:title>logo SÚPER INTENDENCIA DE INDUSTRIA Y COMERCIO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20gobrenacion%20del%20meta-u21343-fr.jpg</image:loc>
+      <image:title>GOBERNACIÓN DEL META</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20GOBERNACI%C3%93N%20DEL%20META.png</image:loc>
+      <image:title>logo GOBERNACIÓN DEL META</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20hospital%20san%20blas-u21359-fr.jpg</image:loc>
+      <image:title>HOSPITAL SAN BLAS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20HOSPITAL%20SAN%20BLAS.png</image:loc>
+      <image:title>logo HOSPITAL SAN BLAS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/pe%20batallon%20de%20mantenimiento.jpg</image:loc>
+      <image:title>BATALLÓN DE MANTENIMIENTO EJERCITO NACIONAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoBATALL%C3%93N%20DE%20MANTENIMIENTO%20EJERCITO%20NACIONAL.png</image:loc>
+      <image:title>logo BATALLÓN DE MANTENIMIENTO EJERCITO NACIONAL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20aireflex.gif</image:loc>
+      <image:title>Aireflex intelligent system</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Logo_Digital_inverter.png</image:loc>
+      <image:title>Digital Inverter</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo%20data.png</image:loc>
+      <image:title>Data computer room units</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Safe-Plus-Logo.png</image:loc>
+      <image:title>Safe plus</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Lab_Control%20_Clean%20_Air.jpg</image:loc>
+      <image:title>Lab Control Clean Air</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/aliadosaireflex</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/CabinasdeDesinfeccionporNebulizacion</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/Safe-Plus-Logo.png</image:loc>
+      <image:title>Safe plus</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/DiseñodeProyectosL.E.E.D&amp;WELconSistemasBioclimático</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/LEED-Certified-Aireflex.png</image:loc>
+      <image:title>Certicficacion LEEED aireflex</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/AireAcondicionadoCuartosLimpios</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/AireAcondicionadoparaClinicasyHospitales</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/assets/Cabina de Desinfeccion por Nebulizacion ~SAFE PLUS~ Aireflex De Colombia SAS.pdf</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/assets/PorQueContratarConAIREFLEX.pdf</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/assets/brochure_aireflex.pdf</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/AireAcondicionadoAutomatizacionManejoyControl</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/MantenimientoAireAcondicionado</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/AireAcondicionadoParqueaderosCocinasBaños</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/AireAcondicionadoLaboratoriosyMetrologia</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/SistemasdeDuctosparaAireAcondiconadoyVentilación</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/AireAcondicionadoEdificiosyCentroscomerciales</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/AireAcondicionadoOficinasLocalesyViviendas</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logoaireflexdecolombia.png</image:loc>
+      <image:title>logo aireflex de colombia sas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/logo-u3885-fr.png</image:loc>
+      <image:title>logo aireflex png</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aireflex.com/images/brochure1.png</image:loc>
+      <image:title>brochure aireflex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aireflex.com/assets/Ficha Técnica DATA CRVF-VRF-2020-2.pdf</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/assets/Ficha Técnica DATA CRHF-VRF-2020-1.pdf</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/assets/Ficha Tecnica DATA CRVF-mini-2020-1.pdf</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/marcaslaboratoriosymetrologia</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/marcasedificiosycentroscomerciales</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aireflex.com/marcasoficinaslocalesviviendas</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
+<!--<guid value="6748b516-5c12-4d87-96a0-2c3bd8f019e2" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
