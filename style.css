@@ -1,5 +1,6 @@
 body{
 
+	margin: 0;
 	padding-top: 3rem;
 
     padding-bottom: 0rem;
@@ -352,4 +353,22 @@ section .section-title {
 
 }
 
+}
+
+.producard{
+	transition: all 0.5s;
+}
+
+.producard:hover{
+	
+	box-shadow: 0 0 10px 10px #55545481; 
+	cursor: pointer;
+	position: relative;
+    z-index:100;
+    transform:scale(1.1);
+}
+
+.textproducard:hover{
+	box-shadow: 0 0 10px 10px #d3d3d388; 
+	cursor: pointer;
 }
